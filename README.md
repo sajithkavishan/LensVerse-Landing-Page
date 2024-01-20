@@ -8,6 +8,8 @@ Watch my demo video to see these animations in action:
 
 https://github.com/sajithkavishan/LensVerse-Landing-Page/assets/131157256/82453505-5f8d-43e1-8bc1-b3b2008b5cef
 
+## Images
+
 ![Screenshot (38)](https://github.com/sajithkavishan/LensVerse-Landing-Page/assets/131157256/0f3a1fcc-0a3a-4edc-97aa-2378e24b6412)
 
 ## Features
