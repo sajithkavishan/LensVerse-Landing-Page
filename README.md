@@ -22,6 +22,7 @@ https://github.com/sajithkavishan/LensVerse-Landing-Page/assets/131157256/824535
 - Code Organization: The CSS code is well-organized and commented, making it easy to understand and maintain.
 - Motion Effects: Enjoy subtle yet enchanting motion effects that enhance the visual appeal.
 
+
 ![Screenshot (17)](https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif)
 
 ## Community
