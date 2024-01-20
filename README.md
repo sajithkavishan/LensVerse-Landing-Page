@@ -1,6 +1,6 @@
-# Responsive Glassy Animated Cards Using HTML & CSS
+# Photography website's Landing page using HTML & CSS
 
-Experience elegance with this glassy animated card. The responsive design showcases a mesmerizing blend of transparency and motion, creating a modern and stylish display. CSS magic at its finest!
+Dive into LensVerse, where elegance meets animation. Experience the magic of photography with my sleek, responsive design—where transparency and motion dance in perfect harmony. CSS brilliance, modern style, and visual enchantment await your hover.
 
 ## Demo Video
 
@@ -12,11 +12,13 @@ https://github.com/sajithkavishan/LensVerse-Landing-Page/assets/131157256/824535
 
 ## Features
 
-- Responsive Design: The card is responsive, ensuring a seamless and attractive display across various screen sizes and devices.
+- Sleek Design: Immerse yourself in a sleek and modern interface that exudes sophistication.
 - CSS Animation: The use of CSS animations adds a dynamic touch to the card, providing an engaging and interactive user experience.
-- Modern Aesthetics: The design features a contemporary look with a glassy and translucent appearance, creating a visually appealing and modern aesthetic.
+- Transparency Blend: Witness the mesmerizing blend of transparency, creating a stylish and contemporary display.
+- User-Friendly Navigation: Effortlessly navigate through LensVerse with a hover-activated navigation bar for a smooth user experience.
 - Hover Interactivity: The card responds to user interaction, with a subtle rotation animation and changes in opacity on hover, enhancing the overall interactivity and user engagement.
 - Code Organization: The CSS code is well-organized and commented, making it easy to understand and maintain.
+- Motion Effects: Enjoy subtle yet enchanting motion effects that enhance the visual appeal.
 
 ![Screenshot (17)](https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif)
 
